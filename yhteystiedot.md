@@ -1,16 +1,12 @@
 ---
-layout: article
-titles:
-  fi: Tietoa
+layout: page
 key: page-tietoa
+show_title: true
+title: Yhteystiedot
 ---
 
 
-Vähennetään yksinäisyyttä yhdessä - kokeilu
-
-Tarkoitus on kehittää yhdessä ratkaisuja yksinäisyyden vähentämiseksi.
-
-### Voit ottaa yhteyttä sähköpostilla
+Voit laittaa sähköpostia osoitteeseen:
 
 [yksinaisyys@kasvatus.info](mailto:yksinaisyys@kasvatus.info)
 
