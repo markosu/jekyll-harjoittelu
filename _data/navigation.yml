@@ -1,7 +1,7 @@
 header:
   - titles:
-      fi:       Tietoa
-    url:        /tietoa.html
+      fi:       Yhteystiedot
+    url:        /yhteystiedot.html
   - titles:
       fi:       Ketä kysytty mukaan?
     url:        /yhteydenotot.html
