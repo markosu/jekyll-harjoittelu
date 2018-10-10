@@ -6,7 +6,7 @@ title:  Ketä kysytty mukaan?
 Listaus organisaatioista, joita kysytty mukaan vähentämään yksinäisyyttä.
 
 
-<p> Yritykset:</p>
+## Yritykset:
 
 <ul>
   {% for post in site.categories.yritys %}
@@ -16,7 +16,7 @@ Listaus organisaatioista, joita kysytty mukaan vähentämään yksinäisyyttä.
   {% endfor %}
 </ul>
 
-<p> Yritykset, jotka on mukana: </p>
+## Yritykset, jotka ovat mukana:
 
 <ul>
   {% for post in site.categories.yritys %}

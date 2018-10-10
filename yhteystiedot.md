@@ -6,8 +6,16 @@ title: Yhteystiedot
 ---
 
 
-Voit laittaa sähköpostia osoitteeseen:
+### Marko Suvila alkutekijä  
+Ruuhkavuosia elävä yksinäinen perheenisä  
+Twitter: [@markosuvila](https://twitter.com/markosuvila)
 
-[yksinaisyys@kasvatus.info](mailto:yksinaisyys@kasvatus.info)
+  
+
+## Muita yhteystietoja
+
+Tekijöille voit laittaa sähköpostia osoitteeseen:
+
+[yksinaisyys[at]kasvatus.info](mailto:yksinaisyys@kasvatus.info)
 
 ### Seuraa kokeilun etenemistä myös Twitterissä [@yksinaisyyden_v](https://twitter.com/yksinaisyyden_v)
