@@ -20,9 +20,9 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Testi
+title   : Yksinäisyyden vähentäminen
 description: > # this means to ignore newlines until "Language & timezone"
- Testi
+ Kokeillaan yhdessä kehittää toimivia ratkaisuja yksinäisyyden vähentämiseksi
 
 
 ## => Language and Timezone
@@ -41,7 +41,7 @@ author:
   bio       : 
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : # yksinaisyyden_v # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  twitter   : yksinaisyyden_v # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name/
