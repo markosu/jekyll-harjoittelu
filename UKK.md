@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Usein kysytyt kysymykset
 ---
-
-Usein kysytyt kysymykset
 
 ## Miksi sivuston teema on tumma?
 
